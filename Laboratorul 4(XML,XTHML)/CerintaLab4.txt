@@ -1,0 +1,4 @@
+List by using XSLT all books grouped by categories (computer science, mathematics, etc.).
+ Within each category, books should be ordered alphabetically. 
+The books are described in an XML document and have at least the followind attributes: title, author, category, year, isbn, etc. 
+Each book category should be formatted using a different CSS class.

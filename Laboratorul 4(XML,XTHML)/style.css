@@ -1,0 +1,22 @@
+.informatics{
+   background-color:blue;
+   font-weight: bold;
+}
+.fantasy{
+   font-family: Helvetica;
+}
+.action{
+   background-color:yellow;
+   letter-spacing: 0.5em;
+}
+.mistery{
+	background-color:red;
+	font-family: Verdana;
+}
+.horror{
+	background-color:green;
+	line-height: 2.5em;
+}
+.table, th, td {
+  border: 5px solid black;
+}

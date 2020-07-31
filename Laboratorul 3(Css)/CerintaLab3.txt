@@ -1,0 +1,4 @@
+Cerinta:
+Folosind sprite-uri CSS, pe baza imaginii de mai jos, sa se creeze un meniu de socializare vertical cu iconitele initial disabled. 
+La mouse over peste una dintre iconitele de socializare, aceasta va deveni din disabled enabled (sa va colora). 
+Nu se va folosi JavaScript. Folositi iconitele din acest sprite.

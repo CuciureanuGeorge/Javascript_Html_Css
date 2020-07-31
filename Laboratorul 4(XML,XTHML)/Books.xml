@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="StyleLogic.xsl" ?> 
+ <ListOfBooks> 
+
+  <Book> 
+   <title>Jackie</title> 
+   <author>Jackie Chan</author> 
+   <category>Action</category>
+   <year>1998</year> 
+   <isbn>546454</isbn>
+  </Book> 
+
+  <Book> 
+   <title>Colt Alb</title> 
+   <author>Jack</author> 
+   <category>Fantasy</category>
+   <year>1234</year> 
+   <isbn>645654</isbn>
+
+  </Book> 
+
+  <Book>  
+   <title>Yellow Factory</title> 
+   <author>Amanda Garney</author> 
+   <category>Mistery</category>
+   <year>2415</year> 
+   <isbn>422</isbn>
+
+  </Book> 
+
+  <Book>  
+   <title>Ordeal</title> 
+   <author>Loren Beth</author> 
+   <category>Horror</category>
+   <year>2019</year> 
+   <isbn>432432</isbn>
+
+  </Book> 
+
+  <Book>  
+   <title>Beginner Informatics</title> 
+   <author>Rucks</author> 
+   <category>Informatics</category>
+   <year>2018</year> 
+   <isbn>5325234</isbn>
+
+  </Book> 
+
+  <Book>  
+   <title>Advanced Informatics</title> 
+   <author>Rucks</author> 
+   <category>Informatics</category>
+   <year>2018</year> 
+   <isbn>523523</isbn>
+
+  </Book> 
+
+ <Book>  
+   <title>Train Case</title> 
+   <author>Sherlock Holmes</author> 
+   <category>Mistery</category>
+   <year>2414</year> 
+   <isbn>423532</isbn>
+
+  </Book> 
+ </ListOfBooks> 

@@ -1,0 +1,114 @@
+
+#meniu {
+margin: 0;
+padding: 100px;
+ display: inline-flex;
+ flex-direction: column;  
+}
+
+#meniu li {
+  list-style: none;
+  width: 84px;
+  
+}
+
+#meniu li, #meniu a {
+  height: 84px;
+  display: block;
+  background: url('1.png');
+}
+
+#meniu a: hover {
+	background: url('1.png')
+}
+
+#fb a{
+  background-position: 0 -84px;
+}
+
+#fl a{
+  background-position: -84px -84px;
+}
+
+#dr a{
+  background-position: -168px -84px;
+}
+
+#google a{
+  background-position: -252px -84px;
+}
+
+#linkedin a{
+  background-position: -336px -84px;
+}
+
+#pinterest a{
+  background-position: -420px -84px;
+}
+
+#rss a{
+  background-position: -504px -84px;
+}
+
+#skype a{
+  background-position: -588px -84px;
+}
+
+#twt a{
+  background-position: -672px -84px;
+}
+
+#vimeo a{
+  background-position: -756px -84px;
+}
+
+#yt a{
+  background-position: -840px -84px;
+}
+
+
+
+#fb a:hover {
+  background-position: 0 0;
+}
+
+#fl a:hover {
+  background-position: -84px 0;
+}
+
+#dr a:hover {
+  background-position: -168px 0;
+}
+
+#google a:hover {
+  background-position: -252px 0;
+}
+
+#linkedin a:hover {
+  background-position: -336px 0;
+}
+
+#pinterest a:hover {
+  background-position: -420px 0;
+}
+
+#rss a:hover {
+  background-position: -504px 0;
+}
+
+#skype a:hover {
+  background-position: -588px 0;
+}
+
+#twt a:hover {
+  background-position: -672px 0;
+}
+
+#vimeo a:hover {
+  background-position: -756px 0;
+}
+
+#yt a:hover {
+  background-position: -840px 0;
+}
+

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <link rel="stylesheet" type="text/css" href="resize.css">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+   <!-- <script src="resize.js"></script> -->
+
+    
+    <title>Resizable</title>
+</head>
+<body>
+    <!-- <script src="resize.js"></script> -->
+    <button class="click" onclick="hideMe()">Show Dialog</button>
+    <div id='element' visible='no'>
+        <span class="title">
+           Basic Dialog
+            <button class="x" onclick="hideMe()">x</button>
+        </span>
+        <br><br>
+        <span>
+           This is the default dialog which is useful for displaying information. The dialog window can not be moved,be resized(see corners) and closed with the 'x' icon.
+        </span>
+        <div class = 'resizers'>
+            
+            <div class='resizer top-left'></div>
+            <div class='resizer top-right'></div>
+            <div class='resizer bottom-left'></div>
+            <div class='resizer bottom-right'></div>
+        </div>
+
+    </div>
+
+</body>
+<script src="resize.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#element").hide();
+        
+    })
+</script>
+
+
+</html>
+</html>
