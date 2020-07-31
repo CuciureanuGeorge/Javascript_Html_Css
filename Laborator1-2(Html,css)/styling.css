@@ -1,0 +1,54 @@
+:root{
+ --width:100px;
+ 
+}
+#simpleimage{
+	width:var(--width);
+
+}
+.container{
+	text-align: center;
+}
+
+.box-1-Left{
+	width:200px;
+	background:#BADA55;
+	position: absolute;
+	right:20%;
+}
+
+.box-2-Right{
+	width:200px;
+	background:#BADA55;
+	position: absolute;
+	left:20%;
+}
+
+
+/*.mainDiv {
+    border: red 1px solid;
+}
+.pictureAndTexDivLeft {
+    border: blue 1px solid;
+    
+    display: table;
+   	border-spacing: 20px;
+   	border-collapse: separate;
+   	width: 200px;
+}
+.pictureAndTexDivRight {
+    border: blue 1px solid;
+    width: 200px;
+    display: table;
+    right:20%;
+}
+.cellLeft {
+    height: auto;
+    overflow: hidden;
+   left:20%;
+}
+.cellRight {
+    height: auto;
+    overflow: hidden;
+    right:20%;
+}*/

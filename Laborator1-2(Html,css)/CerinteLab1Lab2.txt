@@ -1,0 +1,29 @@
+Cerinta:
+
+Urmatoarele etichete sunt utilizate pentru a rezolva acest laborator:
+
+a, tabel, tr, th, td, div, ul, ol, li, forma, intrare, selecta?i, op?iune, textarea, h1 - h6, img, fieldet, legenda, p, br, span
+
+?i TOATE urmatoarele atribute:
+
+Href, nume, ?inta, chenar, colspan, intervale de rând, aliniere, valign, la?ime, înal?ime, bgcolor, tip, start, bifat, dezactivat, lungime maxima, readonly, marime, valoare, multiple, selectate, cols, rânduri, alt, înal?ime, latime, src, titlu.
+
+CSS nu este utilizat.
+
+Scrie?i un site personal cu un formular care este utilizat în via?a reala (vizita?i paginile personale, de exemplu profesorii FMI). Un exemplu de astfel de formular poate fi gasit aici. Acesta este un exemplu, va rugam sa va imagina?i o alta forma !!!
+
+Condi?ii de complexitate:
+
+cel pu?in 15 controale de tip: input, textarea, select;
+utiliza?i controale de intrare de tip: text, caseta de selectare, radio;
+cel pu?in 3 tabele, dintre care doua sunt cuibarite (o tabela apare într-o celula a altei tabele);
+Utilizarea atributelor: linespan, colspan;
+utiliza?i cel pu?in 4 liste (adica, ul, ol) dintre care cel pu?in 2 sunt cuibarate;
+elementele din cele patru liste de mai sus trebuie eviden?iate diferit (de exemplu, o lista ordonata are elemente numerotate A, B, C, altele I, II, III);
+Diacriticele sunt utilizate sub forma;
+Documentul trebuie verificat ca un document HTML5 valabil la http://validator.w3.org/ (fara erori ?i fara avertismente).
+Urmatoarele lucruri trebuie cunoscute la predarea laboratorului:
+
+care atribute din lista de mai sus sunt acceptate de o anumita zi;
+ce valori poate lua un anumit atribut?
+care dintre etichetele / atributele de mai sus sunt depa?ite în HTML5.
